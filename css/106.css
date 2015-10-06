@@ -1,0 +1,35 @@
+body{
+	background-color:#4c4c4c;
+	position:relative;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+	}
+
+.mets{
+	background-color:#ff95b1;
+	
+	}
+
+
+	
+h1,h2,p,a,li,td,tr{
+	color:white;
+	}
+
+.dodgers{
+	background-color:#a391c1;
+	}
+	
+.cubs{
+	background-color:#729dd6;
+	}
+	
+.pittsburgh{
+	background-color:#9e9e1d;
+	}
+	
+.cardinals{
+	background-color:#47ac40;
+	}
